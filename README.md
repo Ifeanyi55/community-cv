@@ -105,17 +105,23 @@ I was one of 10 scheduled speakers at the 2024 NodeXL Summer School organized by
 
 Here is the link to the YouTube recording of my presentation: https://www.youtube.com/watch?v=knQD9KV2Eyk
 
-### **Data Science Society of Nigeria (February 15, 2024)**
+### **Data Science Society of Nigeria (February 15th, 2024)**
 
 Attendees: 80+
 
-I was invited to do a technical deep-dive into text-to-image diffusion models along with a demo. At the end of the talk, I shared the link to the GitHub repository hosting the code of the text-to-image generating software that I demonstrated during the session.
+I was invited to do a technical deep-dive into text-to-image diffusion models along with a demo. At the end of the talk, I shared the links both to the slides I presented and to the GitHub repository hosting the code of the text-to-image generating software that I demonstrated during the session.
+
+![Slides](Slides.jpg)
 
 Here is the link to the GitHub repository:  [ImageGenerator](https://github.com/Ifeanyi55/ImageGenerator)
 
 Here is the link to the slides that I presented: [Presentation slides](https://docs.google.com/presentation/d/1HpAGJJ4iZI2-TH_VmuQINqq1peYF-gCzN9g8MBnPoYI/edit?usp=sharing)
 
+### **Neo4j YouTube Livestream (April 26th, 2022)**
 
+I was invited as a guest to a YouTube livestream organized by Neo4j where I discussed an analytical project I worked on in which I utilized Neo4j graph analytics software to analyze the FIFA22 football dataset downloaded from Kaggle. The event was watched live by more than 500 viewers, and it continues to rack up more viewership till date.
+
+Here is the link to the livestream: [FIFA22](https://www.youtube.com/watch?v=ZADwMoBJ6GQ&t=669s)
 
 
 
