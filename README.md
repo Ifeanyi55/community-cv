@@ -55,7 +55,7 @@ In recognition of my contributions to these projects, The Foundation created a p
 
 I built and deployed the [OpenAlex4Gephi](https://openalex4gephi.netlify.app/) to assist non-technical [Gephi](https://gephi.org/) users, majority of whom are researchers and social scientists, to easily collect scientometric data from OpenAlex.org and import it into Gephi for visualization and analysis. The project receives an average of 500+ active monthly users. The GitHub repository of the project has received **10 stars** so far, and you can access it [here](https://github.com/Ifeanyi55/OpenAlex4Gephi).
 
-I created a GitHub repository of useful datasets and visualizations for learning and mastering Gephi for beginners. The objective of this repository is to help beginner users of Gephi readily find high-quality ready-to-load datasets that they can use in their Gephi learning. The repository has garnered **8 stars** so far, and you can access it [here](https://github.com/Ifeanyi55/GephiDatasets) 
+I created the [GephiDatasets](https://github.com/Ifeanyi55/GephiDatasets) GitHub repository of useful datasets and visualizations for learning and mastering Gephi for beginners. The objective of this repository is to help beginner users of Gephi readily find high-quality ready-to-load datasets that they can use in their Gephi learning. The repository has garnered **8 stars** so far.
 
 ### **Open-Source PDF to Word Converter**
 
