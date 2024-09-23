@@ -61,7 +61,7 @@ I created a GitHub repository of useful datasets and visualizations for learning
 
 I developed an open-source R package wrapper for the Python pdf2docx module, which enables R developers to easily convert their PDF files into Word with few lines of code. The package is called [Convert2Docx](https://github.com/Ifeanyi55/Convert2Docx), and it has received **10 stars** on GitHub.
 
-### **Created and Deployed over 30 Open-Source Spaces on Hugging Face**
+### **Open-Source Spaces on Hugging Face**
 
 I have created and deployed over [30 open-source spaces](https://huggingface.co/Ifeanyi) on Hugging Face. All the code that was used to build the applications running in these spaces are completely accessible to the general public, and anybody can raise an issue or submit a pull request on any of the public spaces.
 
