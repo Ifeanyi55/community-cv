@@ -96,9 +96,10 @@ I am a regular writer on Medium and Dev Genius, writing mostly about data analyt
 ## **Public Speaking**
 ### **2024 NodeXL Summer School**
 
-I was one of 10 scheduled speakers at the 2024 NodeXL Summer School organized by The Social Media Research Foundation. I spoke about and demonstrated 2 open-source data importers we have collaborated on together. Here is the poster of the event:
+I was one of 10 scheduled speakers at the 2024 NodeXL Summer School organized by The Social Media Research Foundation. I spoke about and demonstrated 2 open-source data importers we have collaborated on together. Here are the posters of the event:
 
 ![Speakers](Speaker.jpg)
+![Poster](Poster.jpg)
 
 
 
