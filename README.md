@@ -61,7 +61,11 @@ I created a GitHub repository of useful datasets and visualizations for learning
 
 I developed an open-source R package wrapper for the Python pdf2docx module, which enables R developers to easily convert their PDF files into Word with few lines of code. The package is called [Convert2Docx](https://github.com/Ifeanyi55/Convert2Docx), and it has received **10 stars** on GitHub.
 
-## **Contribution to Python's Gradio Module**
+### **Created and Deployed over 30 Open-Source Spaces on Hugging Face**
+
+I have created and deployed over [30 open-source spaces](https://huggingface.co/Ifeanyi) on Hugging Face. All the code that was used to build the applications running in these spaces are completely accessible to the general public, and anybody can raise an issue or submit a pull request on any of the public spaces.
+
+### **Contribution to Python's Gradio Module**
 
 As an ardent Python [Gradio](https://www.gradio.app/guides/quickstart) user, I was eager to demonstrate how to port the module into the R programming language. Therefore, I created a GitHub repository ([Gradio-in-R](https://github.com/Ifeanyi55/Gradio-in-R)) demonstrating how to install and use the module in R to create Gradio web frontend for R code. The project was shared with Gradio's discord community and it was well-received. 
 
