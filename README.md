@@ -84,7 +84,7 @@ Between October 2022 and February 2024, I wrote over **200** articles on [Statis
 
 ### **Medium & Dev Genius**
 
-I am a regular writer on Medium and Dev Genius, writing mostly about data analytics, AI, and software. Here are some of my posts:
+I am a regular writer on Medium and Dev Genius, writing mostly about data analytics, AI, and software. Here are some of my articles:
 
 - [How to Deploy an RShiny App as a Hugging Face Space](https://ifeanyidiaye.medium.com/how-to-deploy-an-r-shiny-app-as-a-hugging-face-space-486532b0e58a)
 - [How to use Gephi to Analyze Social Network Data for Beginners](https://ifeanyidiaye.medium.com/how-to-use-gephi-to-analyze-social-network-data-51d3ba0ef050)
