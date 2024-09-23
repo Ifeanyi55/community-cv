@@ -94,8 +94,11 @@ I am a regular writer on Medium and Dev Genius, writing mostly about data analyt
 - [Fast Data Exploration in Python and R with Graphic-Walker](https://blog.devgenius.io/fast-data-exploration-in-python-r-with-graphic-walker-3174f1f8b727)
 
 ## **Public Speaking**
-### **International NodeXL Summer School**
+### **2024 NodeXL Summer School**
 
+I was one of 10 scheduled speakers at the 2024 NodeXL Summer School organized by The Social Media Research Foundation. I spoke about and demonstrated 2 open-source data importers we have collaborated on together. Here is the poster of the event:
+
+![Speakers](Speaker.jpg)
 
 
 
