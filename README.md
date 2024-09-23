@@ -94,14 +94,26 @@ I am a regular writer on Medium and Dev Genius, writing mostly about data analyt
 - [Fast Data Exploration in Python and R with Graphic-Walker](https://blog.devgenius.io/fast-data-exploration-in-python-r-with-graphic-walker-3174f1f8b727)
 
 ## **Public Speaking**
-### **2024 NodeXL Summer School**
+### **2024 NodeXL Summer School (July 29th - August 2nd)**
 
-I was one of 10 scheduled speakers at the 2024 NodeXL Summer School organized by The Social Media Research Foundation. I spoke about and demonstrated 2 open-source data importers we have collaborated on together. Here are the posters of the event:
+Attendees: 100+
 
-![Speakers](Speaker.jpg)
+I was one of 10 scheduled speakers at the 2024 NodeXL Summer School organized by The Social Media Research Foundation. It is a bi-annual event that holds every year. I spoke about and demonstrated 2 deployed open-source data importers we have collaborated on together. Here are the posters of the event:
+
+![Speakers](Speakers.jpg)
 ![Poster](Poster.jpg)
 
+Here is the link to the YouTube recording of my presentation: https://www.youtube.com/watch?v=knQD9KV2Eyk
 
+### **Data Science Society of Nigeria (February 15, 2024)**
+
+Attendees: 80+
+
+I was invited to do a technical deep-dive into text-to-image diffusion models along with a demo. At the end of the talk, I shared the link to the GitHub repository hosting the code of the text-to-image generating software that I demonstrated during the session.
+
+Here is the link to the GitHub repository:  [ImageGenerator](https://github.com/Ifeanyi55/ImageGenerator)
+
+Here is the link to the slides that I presented: [Presentation slides](https://docs.google.com/presentation/d/1HpAGJJ4iZI2-TH_VmuQINqq1peYF-gCzN9g8MBnPoYI/edit?usp=sharing)
 
 
 
