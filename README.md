@@ -69,7 +69,7 @@ I have created and deployed over [30 open-source spaces](https://huggingface.co/
 
 As an ardent Python [Gradio](https://www.gradio.app/guides/quickstart) user, I was eager to demonstrate how to port the module into the R programming language. Therefore, I created a GitHub repository ([Gradio-in-R](https://github.com/Ifeanyi55/Gradio-in-R)) demonstrating how to install and use the module in R to create Gradio web frontend for R code. The project was shared with Gradio's discord community and it was well-received. 
 
-I then created and submitted a pull request to the official Gradio repository, which was merged by Gradio's maintainers. I also made a review and 11 commits on the repository. Gradio 5 documentation will incorporate my contribution when it is released.
+I created and submitted a pull request to the official Gradio GitHub repository, which was merged by Gradio's maintainers. I also made a review and 11 commits on the repository. Gradio 5's documentation will incorporate my contribution when it is released.
 
 ## **Technical Writings**
 ### **Statistics Globe**
@@ -107,7 +107,7 @@ Here is the link to the YouTube recording of my presentation: https://www.youtub
 
 ### **Data Science Society of Nigeria (February 15th, 2024)**
 
-Attendees: 80+
+Attendees: 100+
 
 I was invited to do a technical deep-dive into text-to-image diffusion models along with a demo. At the end of the talk, I shared the links both to the slides I presented and to the GitHub repository hosting the code of the text-to-image generating software that I demonstrated during the session.
 
@@ -119,9 +119,56 @@ Here is the link to the slides that I presented: [Presentation slides](https://d
 
 ### **Neo4j YouTube Livestream (April 26th, 2022)**
 
+Live viewers: 500+
+
 I was invited as a guest to a YouTube livestream organized by Neo4j where I discussed an analytical project I worked on in which I utilized Neo4j graph analytics software to analyze the FIFA22 football dataset downloaded from Kaggle. The event was watched live by more than 500 viewers, and it continues to rack up more viewership till date.
 
+![FIFA22](FIFA22.jpg)
+
 Here is the link to the livestream: [FIFA22](https://www.youtube.com/watch?v=ZADwMoBJ6GQ&t=669s)
+
+## **Volunteer Work**
+
+### **Scottish Tech Army (August 2024)**
+
+Since August 28th, 2024, I have been volunteering virtually with the [Scottish Tech Army](https://www.scottishtecharmy.org/). I have participated in virtual brainstorming meetings via Microsoft Teams, slack discussions, and project collaborations where I have been part of the conceptualization of a training program for workers on practical ways they can leverage AI technology to improve their workplace productivity. 
+
+### **The Data Lab Scotland**
+
+For over a year, I have been a very active member and contributor on [The Data Lab Scotland](https://thedatalab.com/)'s online community of data and AI professionals. I have consistently shared valuable knowledge, insights, projects, resources and fostered a collaborative and enriching environment for all. 
+
+In recognition of these contributions, including welcoming new members to the community, I was given the honor to write an end-of-the-year reflection post for the year 2023, which was published on their website. You can read it [here](https://community.thedatalab.com/news/1799234)
+
+## **Awards & Recognitions**
+
+### **Data Visualization Contest**
+
+I was one of three winners in the 2023 International Data Visualization contest organized by The Data Lab Scotland. My winning entry was an open-source analytical dashboard showing the collaborative efforts of mental health researchers to combat 3 critical mental health issues, namely depression, anxiety, and PTSD. You can take a look at the dashboard [here](https://research-effort-analytics.netlify.app/).
+
+The award was announced at the 2023 Data Summit to over 500 AI and data professionals present at the summit. It was also reported in [FutureScot](https://futurescot.com/five-scottish-primary-schools-win-international-data-visualisation-competition/) with my name mentioned in the article.
+
+This award makes me the first African and Nigerian to win this particular contest.
+
+### **Gephi Top Contributor**
+
+I have been awarded Top Contributor by the Gephi Facebook group in recognition of my contributions to the Gephi community of users, including the OpenAlex4Gephi software, GephiDataset GitHub repository, and knowledge and insights sharing. I have consistently, over the years, shared my Gephi projects and helpful resources with the community. I have answered questions and helped users stuck in their projects. 
+
+### **Academic Mention**
+
+I was mentioned in the 2022 PhD thesis of [Mathieu Jacomy](https://scholar.google.com/citations?user=m5CschQAAAAJ&hl=fr) as well as that of Sezon Simon in recognition of my contributions to graph data science with Gephi and programming. 
+
+You can access Mathieu Jacomy's thesis [here](https://reticular.hypotheses.org/1879)
+
+You can access Sezon Simon's thesis [here](https://researchportal.scu.edu.au/esploro/outputs/doctoral/Truth-Lies-and-Chiropractic/991013089413302368/filesAndLinks?index=0)
+
+## **Projects Utilizing Google Technologies**
+
+I have built a few projects in which I made use of technologies created by Google. However, in recent times, I have built projects that make use of Google's generative AI technology. Here are 3 of them:
+
+- [PDF Summarizer](https://pdfsummarizer.netlify.app/): A PDF summarizing software that uses Google's Gemini 1.5 pro model for text summarization. It gets 300+ active monthly users.
+- [Image Chat](https://ifeanyi-image-chat.hf.space/): A software that enables users to ask questions about images using Google's Gemini 1.5-flash model. It gets 600+ active monthly users.
+- [Image-To-Story](https://ifeanyi-image-to-story.hf.space/): A software that enables users to generate stories from images using Google's Gemini 1.5-flash model. It gets 1000+ active monthly users.
+
 
 
 
