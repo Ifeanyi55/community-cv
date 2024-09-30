@@ -8,7 +8,7 @@
 
 **Medium:** https://medium.com/@ifeanyidiaye
 
-**Email:** idiayeifeanyi@yahoo.com
+**Email:** idiayeifeanyi@gmail.com
 
 **Country:** Nigeria
 
